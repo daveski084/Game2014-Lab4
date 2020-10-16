@@ -33,6 +33,6 @@ public class EnemyController : MonoBehaviour
         if (transform.position.x <= -horizontalBoundary)
         {
             direction = 1.0f;
-        }
+        } 
     }
 }
